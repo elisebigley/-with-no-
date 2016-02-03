@@ -1,6 +1,6 @@
 ---
 layout: post
-title: half instructions get you nowhere
+title: half of the instructions get you nowhere
 ---
 In the recent craze of attempting (and failing!) the tutorials for this class, I have come to realize a few important key factors in making the experience as smooth (and rage free) as possible. Once I had my epiphany, I realized that it was common sense: read the full instructions before you begin. My problem started with my fear of the tutorials. I felt reading the whole tutorial through before starting would overwhelm me with complicated instructions and terminology! While that is true in some cases, it is more beneficial to understand the entire process and desired outcome before you begin. 
 
