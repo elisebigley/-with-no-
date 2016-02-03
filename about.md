@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am in my first year of my Masters of Arts in History at Carleton University. My thesis is on the internment of Jewish Refugees in Canada during the Second World War. My areas of focus are gender history, refugee history, Holocaust history, Canadian history, and internment history. 
 
-### More Information
+### Contact me 
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Twitter: @eliseab2 
