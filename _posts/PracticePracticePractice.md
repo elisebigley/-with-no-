@@ -1,1 +1,15 @@
+Practice Practice Practice 
+
+I have learned a lot from the last few tutorials we have done. One of the main things is: practice. Even with things like this github blog, if you do not keep up practice you end up forgetting key commands (like creating a link to another [website](http://www.theuselessweb.com/) in the blog!). 
+
+[Ian Milligan and James Baker](http://programminghistorian.org/lessons/intro-to-bash) really emphasize the importance of trying things out and keeping up with these new tools we are learning in the command line. 
+
+Three key pieces I learned about the learning process with these tutorials: 
+
+1. Play around with the instructions. This kind of goes back to [my last blog post](http://elisebigley.github.io/Hello-World/) where I stress the importance of reading all of the instructions before you begin. This time, I am suggesting that if you don’t get one instruction, maybe move on and try the next stage if possible. I found this helpful at times in the [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash). If an instruction did not work on my computer I looked back at previous instructions, but also looked forward. Sometimes the answers to my issues were found ahead!
+
+2. Experiencing Command Line in different ways and purposes has allowed me to realize the different potential uses it has for a grad student like me. However, this took being frustrated at multiple points during some of the previous tutorials. Seeing the potential for Command Line in different tutorials has helped shaped my understanding of the value it holds. Also being able to change the visual appearance of the terminal has changed my view towards it drastically! 
+
+3. Try and understand the tutorial through your own work. In every tutorial I am attempting to see the importance of the new tool we are learning to my own research. So instead of using the tolstoy.txt in the tutorial, I used a different .txt file that is part of my own research collection. This way, I saw this tool work on a .txt file that I have interest in. Not that tolstoy isn’t interesting…
+
 
