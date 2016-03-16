@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Stop Words: When do we stop?
+title: "Stop Words. When do we stop?"
 ---
 
 Since my thesis will be using Network Analysis I have really been focussing on the various tools that digital humanities scholars use that could be related to this. I find Text Analysis tools both challenge and enhance the way I think about Network Analysis.
