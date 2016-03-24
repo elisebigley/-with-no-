@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: DIGH 5800. Reflections on Professionalization 
+title: Reflections on Professionalization 
 ---
 
 ##Wikipedia Edit-a-thon
