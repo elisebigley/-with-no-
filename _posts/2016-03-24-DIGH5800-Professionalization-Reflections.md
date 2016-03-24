@@ -1,1 +1,15 @@
 ---
+layout: post 
+title: DIGH 5800. Reflections on Professionalization 
+---
+
+##Wikipedia Edit-a-thon
+On International Women's Day Ottawa Art+Feminism held a Wikipedia Edit-a-Thon to edit/improve articles on female artists on Wikipedia. I volunteered to help out at this event. When I arrived most of the participants had left, so I spent my time editing a female artist's page. It was very interesting reading through her biography and exhibit history. I gained an appreciation for her life's work and it was gratifying knowing that I was contributing to her online visibility. I really enjoyed the event itself, talking to other women who were editing Wikipedia pages. This was a compelling example of the ways in which the digital and the humanities can coalesce. It was also crazy to witness something we had learned in class actually making an impact on our everyday lives outside of academia!
+
+
+##Shopify
+This event at Shopify was in celebration of Anita Borg's birthday, an American computer scientist. Employees of Shopify led us through the evening with PowerPoint presentations, group discussions, and a tutorial using the program Processing. I gained a better appreciation for coding, computing science, and the type of mindset needed to use code. The group discussions were inspiring, as everyone had different educational backgrounds and approached the discussion from unique perspectives. Discussing our limited backgrounds using digital tools allowed me to reflect on how much I have learned this year, from using command line to web-based tools I left the event feeling confident in my abilities to further explore the digital humanities. The words of one speaker that night struck a chord with me: "computer science is all about solving problems you are passionate about." I see computer science and coding as less of a separate world from my humanities bubble, and more as a tool that can be used to not only help answer my questions, but provide a new avenue to ask better questions.
+
+
+##VSIM ACE Lab
+A group of us went on a private tour of the VSIM ACE Lab here at Carleton. We explored their flight simulators, virtual reality tools, and discussed the impact of this research. It was very interesting to learn that some of the programs developed at Carleton contribute to Search and Rescue training across Canada. We tried out some of the virtual reality and virtual simulation products they have in their space. We learned a lot about the development of new VS and VR technologies and how they will challenge our understanding of technology. Our guide was very informative and led us through many discussions on the ethics of these products, accessibility issues, and interdisciplinary collaboration. At the end of the tour, he reminded us of the possibility for us to collaborate with the ACE Lab on projects that intersect between our own departments and theirs. Through testing out the technologies in the ACE Lab and discussing their implications and impacts, I have come to understand my own research and the ways in which it can be presented differently.
