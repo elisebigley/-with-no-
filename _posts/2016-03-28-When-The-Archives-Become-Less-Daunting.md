@@ -1,6 +1,6 @@
 ---
 layout: post
-title: when the archives become less daunting
+title: When the Archives Become Less Daunting
 ---
 
 Throughout the semester, Professor Graham has emphasized the benefit of digital tools for our own historical research. Now, it is not that I didn't believe him at first (sorry, Shawn) but this recurring statement only became real to me when I was out doing research. 
