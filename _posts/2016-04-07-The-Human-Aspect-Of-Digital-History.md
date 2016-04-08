@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: The Last Post
+title: "The Last Post"
 ---
 
 This blog post is more a reflection of a very important part of the digital: humans! We have spent quite a bit of our class discussion time on the relationship between the digital and the humanities. What struck a chord with me was not just the humanities aspect of the digital, but the HUMAN aspect of it. 
